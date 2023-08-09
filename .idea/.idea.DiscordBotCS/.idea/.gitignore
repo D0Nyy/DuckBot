@@ -1,0 +1,26 @@
+<<<<<<< Updated upstream
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.DiscordBotCS.iml
+/modules.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\anton\Documents\GitHub\DiscordBotCS\.idea\.idea.DiscordBotCS\.idea/dataSources/
+=======
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.DiscordBotCS.iml
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\lstat\OneDrive\Documents\GitHub\DiscordBotCS\.idea\.idea.DiscordBotCS\.idea/dataSources/
+>>>>>>> Stashed changes
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
