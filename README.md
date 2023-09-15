@@ -1,6 +1,6 @@
 # DuckBot
- A discord bot made in C#.
- Can search reddit subs for images.
- Can search for movies/series info.
- Notifies default discord channel when a professor sends an announcement.
- Can play music in voice channels.
+A discord bot made in C#.<br>
+Can search reddit subs for images.<br>
+Can search for movies/series info.<br>
+Notifies default discord channel when a professor sends an announcement.<br>
+Can play music in voice channels.
